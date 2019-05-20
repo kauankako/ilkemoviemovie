@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Kaushan+Script|Pacifico|Permanent+Marker&display=swap');
+
+.div_cab{
+    margin: 0 auto;
+    width:auto;
+    position: relative;      
+}
+.cabeçalho{
+    background-color:black; 
+    height: 80px;
+    width:auto;
+}
+.navegation_menu{
+    width: auto;
+    height:auto;
+}
+.title{
+    padding-left:5px;
+    font-family: 'Pacifico', cursive;
+    color:white;
+    float: left;
+}
+form{
+    float: right;
+    padding-right:18px;
+    padding-top:22px;
+}
+.button {
+    float: right;
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: 'Pacifico', cursive;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button2 {
+    float: right;
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: 'Pacifico', cursive;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.contato, .series, .filmes{
+    padding-top:9px;
+    float: right;
+}
+.contato{
+    padding-right: 18px;
+}
+.series, .filmes{
+    padding-right: 5px;
+}
+
+
